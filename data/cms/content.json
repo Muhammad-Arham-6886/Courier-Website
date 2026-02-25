@@ -1,0 +1,442 @@
+{
+  "global": {
+    "siteName": "Yasco Couriers",
+    "tagline": "Fast, Reliable Same-Day Courier Services",
+    "logo": "/yasco-logo.png",
+    "footerTagline": "Friendly & professional same-day courier services across Bradford, West Yorkshire and the UK."
+  },
+  "hero": {
+    "slides": [
+      {
+        "id": "1",
+        "title": "Fast & Reliable Same-Day UK Courier Services",
+        "subtitle": "When time matters, we deliver. Our same-day and next-day courier services ensure your parcels arrive safely, securely and on schedule anywhere in the UK.",
+        "ctaText": "Get a Free Quote",
+        "ctaLink": "/contact",
+        "bgColor": "#0F172A",
+        "image": "/happy-delivery-man-carrying-packages-while-walking-down-street.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Nationwide Delivery Solutions You Can Trust",
+        "subtitle": "From urgent single items to regular contracted deliveries, we provide flexible, dependable courier services tailored to your needs across the UK.",
+        "ctaText": "Our Services",
+        "ctaLink": "/services",
+        "bgColor": "#1E293B",
+        "image": "/pretty-woman-getting-parcel-from-deliveryman-red-uniform-happy-caucasian-courier-carrying-yellow-thermal-backpack-smiling-delivering-order-customer-delivery-service-post-concept.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Trusted by Businesses Across the UK",
+        "subtitle": "We handle sensitive documents, medical consignments and high-value goods with the utmost care, offering dedicated vehicles and complete peace of mind.",
+        "ctaText": "About Us",
+        "ctaLink": "/about",
+        "bgColor": "#0F172A",
+        "image": "/Yasco Couriers branded delivery van.jpg"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "07472 858852",
+    "email": "arhamarshadma795@gmail.com",
+    "address": {
+      "street": "56 Southmere Drive",
+      "city": "Bradford",
+      "postcode": "BD7 4EA",
+      "country": "United Kingdom"
+    },
+    "hours": {
+      "weekdays": "Mon – Fri: 6am – 9pm",
+      "saturday": "Saturday: 6am – 9pm",
+      "sunday": "Sunday: 6am – 9pm"
+    }
+  },
+  "home": {
+    "whyChoose": {
+      "label": "Why Yasco?",
+      "title": "Why Choose Yasco Couriers?",
+      "subtitle": "Looking for a courier service you can rely on? Here’s why Yasco Couriers is the right choice:",
+      "image": "/front-view-delivery-men-job-concept.jpg",
+      "imageAlt": "Yasco Couriers professional team",
+      "badgeValue": "15+",
+      "badgeLabel": "Years of excellence",
+      "items": [
+        {
+          "id": "1",
+          "icon": "Clock",
+          "title": "60-Minute Collection",
+          "desc": "We promise to collect your parcel within 60 minutes of confirming your booking."
+        },
+        {
+          "id": "2",
+          "icon": "Shield",
+          "title": "Fully Insured",
+          "desc": "Goods in transit cover up to £5 million — giving you total reassurance."
+        },
+        {
+          "id": "3",
+          "icon": "RefreshCw",
+          "title": "No Goods Transfers",
+          "desc": "Your items travel in a dedicated vehicle with one driver — no switching between vans."
+        },
+        {
+          "id": "4",
+          "icon": "MapPin",
+          "title": "Local Knowledge",
+          "desc": "Extensive knowledge of Bradford and the surrounding areas — ensuring the quickest routes."
+        },
+        {
+          "id": "5",
+          "icon": "ThumbsUp",
+          "title": "7 Days a Week",
+          "desc": "Available from 6am to 9pm daily, including weekends and bank holidays."
+        },
+        {
+          "id": "6",
+          "icon": "Zap",
+          "title": "Years of Industry Experience",
+          "desc": "Our team delivers decades of professional courier expertise with every job."
+        }
+      ]
+    },
+    "servicesSection": {
+      "label": "What We Offer",
+      "title": "Our Courier Services",
+      "subtitle": "From fast same-day collections to specialist consignments, we offer dependable courier solutions you can trust."
+    },
+    "clientLogos": {
+      "label": "Trusted by Organisations Across Yorkshire",
+      "items": [
+        {
+          "id": "1",
+          "src": "/University-of-Bradford.png",
+          "alt": "University of Bradford"
+        },
+        {
+          "id": "2",
+          "src": "/APC Overnight.png",
+          "alt": "APC Overnight"
+        },
+        {
+          "id": "3",
+          "src": "/Secure-for-THLTD.png",
+          "alt": "Secure Forth"
+        },
+        {
+          "id": "4",
+          "src": "/Global-Moving-LLC.png",
+          "alt": "Global Moving LLC"
+        },
+        {
+          "id": "5",
+          "src": "/Smart Search.png",
+          "alt": "Smart Search"
+        }
+      ]
+    },
+    "guarantee": {
+      "label": "Our Guarantee",
+      "title": "Reliable Couriers\nYou Can Trust",
+      "body": "Flexible services. Time-sensitive deliveries. Overnight options available. Whatever you need transported, Yasco Couriers has the right solution for you.",
+      "tags": [
+        "Tailored Services",
+        "Time Critical",
+        "Overnight",
+        "Nationwide"
+      ],
+      "ctaText": "Get a Free Quote",
+      "ctaLink": "/contact",
+      "image": "/medium-shot-delivery-man-holding-box.jpg",
+      "imageAlt": "Reliable courier delivery"
+    },
+    "testimonials": {
+      "label": "Client Reviews",
+      "title": "What Our Customers Say",
+      "subtitle": "Genuine feedback from businesses and individuals who rely on Yasco Couriers for dependable delivery services every day."
+    }
+  },
+  "about": {
+    "hero": {
+      "breadcrumb": "About Us",
+      "title": "Based in Bradford, Delivering Across the UK",
+      "subtitle": "Yasco Couriers is a dependable same-day courier service committed to fast response times, secure transport and outstanding customer care.",
+      "ctaText": "Get a Free Quote",
+      "ctaLink": "/contact",
+      "secondaryCtaText": "Our Services",
+      "secondaryCtaLink": "/services",
+      "image": "/content-woman-carrying-boxes.jpg",
+      "imagePosition": "center top"
+    },
+    "intro": {
+      "label": "Who We Are",
+      "title": "Your Trusted Bradford Courier Partner",
+      "body": "Established in Bradford, West Yorkshire, Yasco Couriers has grown from a local delivery service into a dependable courier trusted by businesses and individuals nationwide. We know every delivery counts — from everyday parcels to urgent, time-sensitive medical documents.\n\nWe’re proud to offer a 60-minute collection promise, comprehensive goods-in-transit insurance, and a dedicated vehicle and driver for every job. No shared loads, no unnecessary delays — just secure, professional delivery you can rely on."
+    },
+    "team": {
+      "image": "/front-view-delivery-men-job-concept.jpg",
+      "imageAlt": "Yasco Couriers team"
+    },
+    "guarantee": {
+      "label": "Our Commitment",
+      "title": "The 60-Minute Guarantee",
+      "body": "We know that some deliveries simply can’t wait. That’s why we guarantee collection within 60 minutes of your booking — without compromise. Our drivers are positioned across Bradford and nearby areas, ready to respond quickly and efficiently whenever you need us.",
+      "image": "/front-view-delivery-man-with-package.jpg",
+      "imageAlt": "Delivery man with package"
+    },
+    "processSteps": [
+      {
+        "id": "1",
+        "step": "01",
+        "title": "Easy Online Booking",
+        "desc": "Place your booking online or by phone — confirmation is quick and hassle-free."
+      },
+      {
+        "id": "2",
+        "step": "02",
+        "title": "60-Minute Collection",
+        "desc": "A dedicated driver collects your parcel within 60 minutes of booking."
+      },
+      {
+        "id": "3",
+        "step": "03",
+        "title": "Direct Delivery",
+        "desc": "Your items go straight from A to B — no transfers, no depots."
+      },
+      {
+        "id": "4",
+        "step": "04",
+        "title": "Proof of Delivery",
+        "desc": "Receive real-time updates and a signed proof of delivery every time."
+      }
+    ],
+    "values": [
+      {
+        "id": "1",
+        "title": "Reliability",
+        "desc": "Always on time — our proven track record says it all."
+      },
+      {
+        "id": "2",
+        "title": "Integrity",
+        "desc": "Clear pricing and honest communication every step of the way."
+      },
+      {
+        "id": "3",
+        "title": "Professionalism",
+        "desc": "Trained, uniformed drivers who deliver with skill and respect."
+      },
+      {
+        "id": "4",
+        "title": "Care",
+        "desc": "Every parcel handled as carefully as if it were our own."
+      }
+    ]
+  },
+  "pages": {
+    "privacy": {
+      "breadcrumb": "Privacy & Terms",
+      "title": "Privacy Policy & Terms of Service",
+      "subtitle": "Please read our privacy policy and terms of service carefully.",
+      "image": "/delivery-man-with-clipboard.jpg",
+      "imagePosition": "center center",
+      "content": "<section id=\"privacy-terms\" style=\"line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 40px 20px;\">\n\n  <!-- Privacy Policy Section -->\n  <h1 style=\"color: #4DB848; margin-top: 30px;\">Privacy Policy</h1>\n  <p>At Yasco Couriers, protecting your personal information is a top priority. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information when you use our website and services.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Information We Collect</h3>\n  <p>We may collect the following personal information when you interact with our website or use our courier services:</p>\n  <ul style=\"margin-left: 20px; list-style-type: disc;\">\n    <li>Contact details (name, email, phone number, postal address)</li>\n    <li>Delivery and shipping information</li>\n    <li>Payment details (processed securely)</li>\n    <li>Any communication with our team</li>\n    <li>Usage data from our website</li>\n  </ul>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">How We Use Your Information</h3>\n  <p>Your information is used to:</p>\n  <ul style=\"margin-left: 20px; list-style-type: disc;\">\n    <li>Process and deliver your parcels efficiently and securely</li>\n    <li>Respond to enquiries and provide customer support</li>\n    <li>Send updates about deliveries and service notifications</li>\n    <li>Improve our services, website, and user experience</li>\n    <li>Comply with legal obligations</li>\n  </ul>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Data Sharing and Third Parties</h3>\n  <p>We respect your privacy and do not sell or trade your personal information. We may share your data with trusted third-party partners only to facilitate deliveries or payment processing, under strict confidentiality and security standards.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Cookies and Tracking</h3>\n  <p>Our website uses cookies to enhance your browsing experience, collect analytics, and understand how visitors use our services. You can adjust your browser settings to block or limit cookies, but this may affect website functionality.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Your Rights</h3>\n  <p>You have the right to access, correct, or request deletion of your personal data. To exercise any of these rights, contact us at <a href=\"mailto:info@yascocouriers.co.uk\" style=\"color: #4DB848;\">info@yascocouriers.co.uk</a>.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Data Security</h3>\n  <p>We implement technical and organisational measures to protect your data against unauthorised access, loss, or disclosure. Sensitive information is transmitted securely using encryption where applicable.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Policy Updates</h3>\n  <p>We may update this Privacy Policy periodically. Continued use of our website or services constitutes acceptance of any updated policy.</p>\n\n  <!-- Terms of Service Section -->\n  <h1 style=\"color: #4DB848; margin-top: 40px;\">Terms of Service</h1>\n  <p>By using Yasco Couriers’ website and services, you agree to comply with these terms. These terms cover bookings, deliveries, payments, and client responsibilities.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Service Overview</h3>\n  <p>Yasco Couriers provides same-day, next-day, multi-drop, and specialist courier services across Bradford, West Yorkshire, and the UK, including documents, parcels, and medical items.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Booking and Collection</h3>\n  <p>Clients may book services via website, phone, or email. We aim to collect parcels promptly. The 60-minute collection guarantee applies where specified. Clients must provide accurate delivery details to avoid delays.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Delivery and Liability</h3>\n  <p>Yasco Couriers takes every precaution to deliver items safely and on time, but is not liable for delays caused by traffic, weather, third-party disruptions, or other circumstances beyond our control. Standard insurance applies; additional coverage can be requested.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Prohibited Items</h3>\n  <p>We do not transport illegal, hazardous, or unsafe items. Clients must ensure goods are properly packaged. We reserve the right to refuse service for items deemed unsuitable.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Payment Terms</h3>\n  <p>Payments must be completed as agreed at booking. Additional charges may apply for urgent deliveries, long-distance routes, or specialised services.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">User Conduct</h3>\n  <p>Clients agree to use our services responsibly. Misuse, such as sending prohibited items or providing false information, may result in termination of service and potential legal action.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Intellectual Property</h3>\n  <p>All content on this website, including text, images, and logos, is the property of Yasco Couriers or licensed to us. No content may be reproduced for commercial purposes without prior consent.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Amendments to Terms</h3>\n  <p>We reserve the right to update these Terms of Service at any time. Continued use of services indicates acceptance of updated terms.</p>\n\n  <h3 style=\"color: #2E7D32; margin-top: 20px;\">Contact Information</h3>\n  <p>If you have questions regarding our Privacy Policy or Terms of Service, contact us at:</p>\n  <p>Email: <a href=\"mailto:info@yascocouriers.co.uk\" style=\"color: #4DB848;\">info@yascocouriers.co.uk</a><br>\n  Phone: +44 1274 000000<br>\n  Address: Yasco Couriers, Bradford, West Yorkshire, UK</p>\n</section>"
+    },
+    "services": {
+      "breadcrumb": "Services",
+      "title": "Expert Courier Solutions",
+      "subtitle": "Specialising in same-day, nationwide, and express deliveries at competitive rates. Your items travel in a dedicated vehicle with one driver — every time.",
+      "ctaText": "Get a Free Quote",
+      "ctaLink": "/contact",
+      "image": "/young-delivery-man-using-digital-tablet-scanning-bar-code-package-label-while-preparing-shipment-with-his-coworker.jpg",
+      "imagePosition": "center 30%",
+      "introLabel": "What We Offer",
+      "introTitle": "Tailored Courier Solutions",
+      "introBody": "At Yasco Couriers, we offer professional, dependable courier services across Bradford, West Yorkshire, and nationwide. From urgent same-hour collections to specialist medical deliveries, we ensure every parcel reaches its destination safely and on time."
+    },
+    "contact": {
+      "breadcrumb": "Contact",
+      "title": "Let’s Get Your Parcel Moving!",
+      "subtitle": "Reaching us is simple — we’re ready to help whenever you need. Call, email, or complete our quick contact form and we’ll respond promptly.",
+      "image": "/delivery-man-with-clipboard.jpg",
+      "imagePosition": "center 25%"
+    },
+    "faq": {
+      "breadcrumb": "FAQs",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Here are some of the most common questions we receive, along with helpful answers. If you don’t see what you’re looking for, please get in touch — we’re happy to help.",
+      "image": "/medium-shot-delivery-guy-with-package.jpg",
+      "imagePosition": "center 20%"
+    }
+  },
+  "quoteSection": {
+    "label": "Free Quote",
+    "title": "Get Your Free Quote",
+    "subtitle": "Need a reliable courier at a competitive rate? Fill out our simple contact form and we’ll provide a personalised quote quickly. Our team is ready to respond promptly and help you find the best delivery solution for your needs.",
+    "phoneLabel": "Prefer to call?",
+    "phoneSub": "Available 6am – 9pm, seven days a week",
+    "footerText": "No matter the delivery, Yasco Couriers has the right service for you — from planned shipments and scheduled routes to urgent, same-day requests, we’ve got it covered!"
+  },
+  "services": [
+    {
+      "id": "same-day",
+      "title": "Same Day / Next Day",
+      "icon": "Zap",
+      "image": "/Same-day delivery service.jpg",
+      "shortDescription": "Fast, reliable courier services for urgent parcels or scheduled deliveries, tailored to your business needs.",
+      "fullDescription": "We specialise in fast, same-day courier solutions for urgent or ad-hoc requests. For regular deliveries, we can schedule collections daily, weekly, or monthly. Our dedicated local teams tailor each service to your business needs, providing reliable, person-to-person Same Day and Next Day delivery every time."
+    },
+    {
+      "id": "multi-drop",
+      "title": "Multi-Drop",
+      "icon": "MapPin",
+      "image": "/Same day courier collection and delivery.jpg",
+      "shortDescription": "Reliable multi-drop delivery solutions to get all your parcels to customers on time, anywhere in the UK.",
+      "fullDescription": "Our multi-drop service is designed to meet every delivery need, ensuring your customers receive their goods promptly across the UK. By analysing your business requirements and leveraging our logistics expertise, we plan the most efficient routes. This ensures timely, organised, and hassle-free deliveries every time."
+    },
+    {
+      "id": "medical",
+      "title": "Medical / Pharmaceutical",
+      "icon": "Heart",
+      "image": "/medium-shot-delivery-man-holding-box.jpg",
+      "shortDescription": "Trusted courier services for medical, pharmaceutical, and health-related deliveries, handled with care and confidentiality.",
+      "fullDescription": "Yasco Couriers specialises in the secure transport of medical and health-related goods, including medical records, pharmaceuticals, specimens, and equipment. We handle confidential documents, blood products, veterinary supplies, and consumables with the utmost care. Our team provides both ad hoc and scheduled courier services, ensuring timely, compliant, and reliable delivery every time. With a proven track record, we offer peace of mind for critical healthcare logistics."
+    },
+    {
+      "id": "documentation",
+      "title": "Documentation",
+      "icon": "FileText",
+      "image": "/delivery-man-with-clipboard.jpg",
+      "shortDescription": "Fast, secure courier services for time-sensitive and critical business or legal documents.",
+      "fullDescription": "Yasco Couriers ensures your documents reach their destination without delay. With no stops, no breaks, and no other parcels on board, your package is transported directly and securely. Ideal for urgent legal, business, or time-critical documents, our service keeps your workflow on track and deadlines met every time."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Secure Forth Ltd",
+      "role": "Business Client",
+      "content": "We have used Yasco Couriers for over a year now and have always received a top-notch service throughout. Their reliability and professionalism is second to none.",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "name": "Bradford Medical Group",
+      "role": "Healthcare Provider",
+      "content": "Yasco have been handling our sensitive medical deliveries for six months. Their attention to detail and discretion is exactly what we needed. Highly recommended.",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "name": "Northern Law Associates",
+      "role": "Legal Firm",
+      "content": "For time-critical legal documents, you need a courier you can trust absolutely. Yasco have never let us down — fast, professional, and always on time.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "id": "1",
+      "question": "Can my parcel be delivered today?",
+      "answer": "Absolutely! Same-day deliveries are our speciality. For our Same Day service, please place your booking before 12pm. We also offer 3-hour and VIP deliveries between 8am–9pm. Need a delivery outside these times? Just let us know in advance and we’ll do our best to accommodate you."
+    },
+    {
+      "id": "2",
+      "question": "Can I place a booking over the phone?",
+      "answer": "We recommend using our quick and simple online booking form. However, if you prefer to book by phone or need extra assistance, our friendly team is always ready to help."
+    },
+    {
+      "id": "3",
+      "question": "How much does it cost? Can I get a quote?",
+      "answer": "We charge a distance-based flat fee, with possible additional costs for returns or large volumes. Use our online form for a fast, no-obligation quote tailored to your delivery."
+    },
+    {
+      "id": "4",
+      "question": "What time do Yasco Couriers operate?",
+      "answer": "Our customer service team is available from 6am to 9pm, seven days a week. You can book online anytime — we’re here whenever you need us."
+    },
+    {
+      "id": "5",
+      "question": "Can my parcel be delivered on weekends and after hours?",
+      "answer": "Yes! Our office is open seven days a week, including weekends. Simply book online or give us a call to arrange your delivery."
+    },
+    {
+      "id": "6",
+      "question": "Do you track my package?",
+      "answer": "Yes! All our vehicles are geo-location tracked, and customers receive hourly email updates, so you always know exactly where your parcel is."
+    },
+    {
+      "id": "7",
+      "question": "Can I open an account?",
+      "answer": "After a three-month probationary period, customers can open an account. Account holders enjoy priority booking, consolidated billing, and dedicated account management."
+    },
+    {
+      "id": "8",
+      "question": "What are your same-day delivery cut-off times?",
+      "answer": "The cut-off for same-day delivery is 5pm. Bookings made before this time are guaranteed for same-day delivery. Contact us for arrangements outside these hours."
+    },
+    {
+      "id": "9",
+      "question": "Is my package insured?",
+      "answer": "Yes. Goods in transit are insured up to £5 million for hire and reward. Some exceptions apply, and our team will be happy to discuss coverage when you place your booking."
+    },
+    {
+      "id": "10",
+      "question": "How do I check the price of a delivery?",
+      "answer": "You can speak with one of our team for a no-obligation quote, or complete our online form for a fast response. Either way, we’ll provide an accurate price quickly."
+    }
+  ],
+  "stats": [
+    {
+      "id": "1",
+      "label": "Years Experience",
+      "value": 15,
+      "suffix": "+"
+    },
+    {
+      "id": "2",
+      "label": "Deliveries Completed",
+      "value": 50000,
+      "suffix": "+"
+    },
+    {
+      "id": "3",
+      "label": "Client Satisfaction",
+      "value": 100,
+      "suffix": "%"
+    },
+    {
+      "id": "4",
+      "label": "UK Locations Served",
+      "value": 50,
+      "suffix": "+"
+    }
+  ],
+  "locations": [
+    "Shipley",
+    "Pudsey",
+    "Baildon",
+    "Queensbury",
+    "Wilsden",
+    "Horsforth",
+    "Bingley",
+    "Guiseley",
+    "Yeadon",
+    "Denholme",
+    "Cullingworth",
+    "Brighouse",
+    "Menston",
+    "Halifax",
+    "Southowram",
+    "Heckmondwike",
+    "Morley",
+    "Batley",
+    "Burley in Wharfedale",
+    "Otley",
+    "Elland",
+    "Oxenhope",
+    "Leeds",
+    "Mirfield",
+    "Ilkley",
+    "Huddersfield"
+  ]
+}
