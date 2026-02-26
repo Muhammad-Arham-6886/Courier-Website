@@ -213,11 +213,34 @@ export interface CMSContent {
 
 // ─── Functions ────────────────────────────────────────────────────────────────
 
-export function getCMSContent(): CMSContent {
+import dbConnect from "./mongodb";
+import SiteContent from "../models/SiteContent";
+
+export async function getCMSContent(): Promise<CMSContent> {
+    try {
+        await dbConnect();
+        const content = await SiteContent.findOne().lean();
+
+        if (content) {
+            const { _id, __v, createdAt, updatedAt, ...rest } = content as Record<string, any>;
+            return rest as unknown as CMSContent;
+        }
+    } catch (e) {
+        console.error("Error fetching CMS content from MongoDB:", e);
+    }
+
+    // Fallback to local file if DB is empty or connection fails
     const raw = fs.readFileSync(DATA_FILE, "utf-8");
     return JSON.parse(raw) as CMSContent;
 }
 
-export function saveCMSContent(content: CMSContent): void {
-    fs.writeFileSync(DATA_FILE, JSON.stringify(content, null, 2), "utf-8");
+export async function saveCMSContent(content: CMSContent): Promise<void> {
+    await dbConnect();
+    const existing = await SiteContent.findOne();
+
+    if (existing) {
+        await SiteContent.updateOne({ _id: existing._id }, { $set: content });
+    } else {
+        await SiteContent.create(content);
+    }
 }

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 };
 
 export default async function ContactPage() {
-    const content = getCMSContent();
+    const content = await getCMSContent();
     const { contact, locations } = content;
     const pg = content.pages.contact;
 

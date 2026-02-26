@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 };
 
 export default async function PrivacyTermsPage() {
-    const content = getCMSContent();
+    const content = await getCMSContent();
     const pg = content.pages.privacy;
 
     return (

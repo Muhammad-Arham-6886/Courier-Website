@@ -2,7 +2,7 @@ import { getCMSContent } from "@/lib/cms-data";
 import QuoteForm from "./QuoteForm";
 
 export default async function QuoteSection() {
-    const content = getCMSContent();
+    const content = await getCMSContent();
     const { contact, quoteSection } = content;
 
     return (

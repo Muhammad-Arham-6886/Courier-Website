@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 };
 
 export default async function FAQPage() {
-    const content = getCMSContent();
+    const content = await getCMSContent();
     const pg = content.pages.faq;
 
     return (

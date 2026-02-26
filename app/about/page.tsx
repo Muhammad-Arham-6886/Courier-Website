@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 };
 
 export default async function AboutPage() {
-    const content = getCMSContent();
+    const content = await getCMSContent();
     const { about } = content;
 
     return (

@@ -33,12 +33,12 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  const content = getCMSContent();
+  const content = await getCMSContent();
 
   return (
     <html lang="en-GB" suppressHydrationWarning>

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
 };
 
 export default async function ServicesPage() {
-    const content = getCMSContent();
+    const content = await getCMSContent();
     const { pages, services } = content;
     const pg = pages.services;
 

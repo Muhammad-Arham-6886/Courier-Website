@@ -19,7 +19,7 @@ const iconMap: Record<string, React.ReactNode> = {
 };
 
 export default async function HomePage() {
-  const content = getCMSContent();
+  const content = await getCMSContent();
   const { home, stats, testimonials } = content;
 
   return (
